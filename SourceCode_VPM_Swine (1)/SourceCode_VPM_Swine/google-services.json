@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347917291000",
+    "project_id": "vpmswine",
+    "storage_bucket": "vpmswine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347917291000:android:8913fec9cf009f5e831a0d",
+        "android_client_info": {
+          "package_name": "com.cp.vpmswine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347917291000-182alvnnvaggq606nf205p0f7i2je5cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaASo7sIP2x4VckTI95s20VwHNus2EZ5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347917291000-182alvnnvaggq606nf205p0f7i2je5cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

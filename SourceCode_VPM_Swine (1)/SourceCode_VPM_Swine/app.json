@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "VPMSWINE",
+    "slug": "vpmswine",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "1.1.0",
+      "supportsTablet": false,
+      "bundleIdentifier": "com.cp.vpmswine",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "VPMSWINE cần kết nối với thư viện ảnh để bạn đăng hình thiết bị bảo trì",
+        "NSCameraUsageDescription": "VPMSWINE cần kết nối với camera để bạn chụp hình thiết bị bảo trì"
+      }
+    },
+    "android": {
+      "versionCode": 110,
+      "package": "com.cp.vpmswine",
+      "googleServicesFile": "./google-services.json",
+      "icon":"./assets/icon.png"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
